@@ -53,8 +53,8 @@ public class ScriptUtils {
         mLanguageCodeToScriptCode.put("", SCRIPT_LATIN); // default
         mLanguageCodeToScriptCode.put("ar", SCRIPT_ARABIC);
         mLanguageCodeToScriptCode.put("hy", SCRIPT_ARMENIAN);
-        mLanguageCodeToScriptCode.put("bg", SCRIPT_BULGARIAN);
         mLanguageCodeToScriptCode.put("bn", SCRIPT_BENGALI);
+        mLanguageCodeToScriptCode.put("bg", SCRIPT_CYRILLIC);
         mLanguageCodeToScriptCode.put("sr", SCRIPT_CYRILLIC);
         mLanguageCodeToScriptCode.put("ru", SCRIPT_CYRILLIC);
         mLanguageCodeToScriptCode.put("ka", SCRIPT_GEORGIAN);
@@ -68,7 +68,6 @@ public class ScriptUtils {
         mLanguageCodeToScriptCode.put("ta", SCRIPT_TAMIL);
         mLanguageCodeToScriptCode.put("te", SCRIPT_TELUGU);
         mLanguageCodeToScriptCode.put("th", SCRIPT_THAI);
-        mLanguageCodeToScriptCode.put("uk", SCRIPT_CYRILLIC);
     }
 
     /*
